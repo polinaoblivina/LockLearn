@@ -51,9 +51,3 @@ Frontend и Backend разделены, взаимодействие через 
 - Entity Framework Core
 - JWT Authentication
 
-**Запуск:**
-1. Установить .NET SDK
-2. Настроить строку подключения к PostgreSQL
-3. Применить миграции:
-   ```bash
-   dotnet ef database update
